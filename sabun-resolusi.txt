@@ -1,5 +1,4 @@
 Resolusi sabun:
 - konsisten belajar web programing
 - fokus pada tujuan menjadi fullstack developer
-- Mendapatkan pekerjaan di bidang IT
-- dapat ** dan Having ***
+- Mendapatkan pekerjaan di bidang IT 
