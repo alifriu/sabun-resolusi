@@ -1,4 +1,7 @@
 - belajar html
+  * dasar html
 - belajar css
+  * dasar css
 - belajar javascript
-- belajar framework
+  * dasar javascript
+
