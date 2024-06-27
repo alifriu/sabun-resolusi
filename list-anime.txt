@@ -3,3 +3,4 @@
     - marin
     - megami no caffe
     - konosuba s3
+    - blue lock
