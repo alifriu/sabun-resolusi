@@ -2,3 +2,4 @@
     - fierin
     - marin
     - megami no caffe
+    - konosuba s3
